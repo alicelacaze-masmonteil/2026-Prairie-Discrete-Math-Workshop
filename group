@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html>
+    <style>
+        body {
+          font-family: Arial, Helvetica, sans-serif;
+          margin: 0;
+        }
+        /* Style the header */
+        .header {
+          padding: 250px;
+          text-align: center;
+          background: url(https://alicelacaze-masmonteil.github.io/photos/MainBackground.jpg);
+          background-repeat: no-repeat;
+          background-attachment: fixed; 
+          background-size: cover;
+          color: white;
+          font-size: 40px;
+        }
+        
+        /* Increase the font size of the h1 element */
+        .header h1 {
+          font-size: 60px;
+          font-family: Arial;
+        }
+        h2 {
+          text-align: justify;
+          font-size: 30px;
+          margin-left: 60px;
+          font-family: Arial;
+          color: #333;
+        }
+        h3 {
+          margin-left: 40px;
+        }
+        /* Style the top navigation bar */
+        .navbar {
+        overflow: hidden;
+        background-color: #333;
+        }
+        /* Style the navigation bar links */
+        .navbar a {
+        float: right;
+        display: block;
+        color: rgb(243, 235, 235);
+        text-align: center;
+        padding: 14px 20px;
+        text-decoration: none;
+        }
+
+        .column1 {
+        float: left;
+        width: 30%;
+         }
+         .column2 {
+        float: left;
+        width: 70%;
+         }
+        .btn {
+         border: 2px solid;
+         border-color: #333;
+         background-color: white;
+         color:#333;
+         padding: 14px 28px;
+         font-size: 16px;
+         cursor: pointer;
+         display: inline-block;
+         margin-right: 10px;
+        }
+        
+        .btn:a {
+        float: right;
+        display: block;
+        color: rgb(243, 235, 235);
+        text-align: center;
+        padding: 14px 20px;
+        text-decoration: none;
+        }
+
+        .btn:hover {
+        background-color: #ddd;
+        color: black;
+        }
+
+        /* Right-aligned link */
+        .navbar a.right {
+        float: right;
+        }
+
+        /* Change color on hover */
+        .navbar a:hover {
+        background-color: #ddd;
+        color: black;
+        }
+        .intro {
+        margin-top: 50px;
+        margin-bottom: 100px;
+        margin-right: 80px;
+        margin-left: 80px;
+          
+        }
+        .pub {
+        margin-top: 50px;
+        margin-bottom: 50px;
+        margin-right: 80px;
+        margin-left: 80px;
+          }
+        .container { 
+        height: 170px;
+        position: relative;
+          }
+
+        .center {
+        margin: 0;
+        position: absolute;
+        padding-left: 0px;
+        top: 60%;
+        left: 50%;
+        transform: translate(65px, -50px);
+        }       
+    </style>
+   <head>
+      <title> The 2026 Prairie Discrete Mathematics Workshop </title>
+      <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+   </head>
+   <body>
+    <div class="header"> 
+        <h1> The 2026 Prairie Discrete Mathematics Workshop</h1>
+        <p>University of Regina</p>
+      </div>
+    <div class="navbar">
+      <a lass = "nav-link" href ="https://alicelacaze-masmonteil.github.io/group.html">About Us</a>
+        <a lass = "nav-link" href ="https://alicelacaze-masmonteil.github.io/Travel.html">Travel Information</a>
+        <a class = "nav-link" href ="https://alicelacaze-masmonteil.github.io/Participants.html">Participants</a>
+        <a class = "nav-link" href ="https://alicelacaze-masmonteil.github.io/Program.html"> Program</a>
+        <a class = "nav-link" href ="https://alicelacaze-masmonteil.github.io/index.html">Home</a>
+    </div>
+    <section id = "About Us">
+      <h2 style="text-align:center"></h2>
+      <div class="intro" style="font-family:verdana";> 
+    <div class="column2">
+          <h3> The University of Regina Discrete Mathematics Group</h3> 
+      <p style="font-family:verdana; text-align:justify">
+
+   </body>
+</html>
